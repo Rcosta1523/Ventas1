@@ -19,7 +19,7 @@ namespace Ventas1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("Si tú no construyes tu sueño, alguien va a contratarte para que le ayudes a construir el suyo.");
         }
     }
 }
